@@ -22,7 +22,7 @@
                     <!-- contact info -->
                     <div class="direct__contact_info">
                         <p>
-                            <a href="mailto: waturu@business.com" target="_self" rel="noopener" style="color: inherit !important;">Mail Address</a>
+                            <a href="mailto: waturu@mail.com" target="_self" rel="noopener" style="color: inherit !important;">Mail Address</a>
                         </p>
                         <p>
                             <a href="tel: +254 768 989 025 " target="_self" rel="noopener" style="color: inherit !important;">Contact </a>
@@ -34,8 +34,8 @@
 
                     <!-- social links -->
                     <div class="social__links">
-                        <a class="hbrable" href="https://www.reddit.com/user/waturu_" target="_blank" rel="noopener" >
-                            <span class="ti-reddit"></span>
+                        <a class="hbrable" href="" target="_blank" rel="noopener" >
+                            <span class="ti-google"></span>
                         </a>
                     </div>
 

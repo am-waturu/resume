@@ -59,8 +59,8 @@
                                         <p class="text__heading_sm">Social</p>
                                         <!-- social links -->
                                         <div class="social__links">
-                                            <a class="hbrable" href="https://www.reddit.com/user/waturu_" target="_blank" rel="noopener" >
-                                                <span class="ti-reddit"></span>
+                                            <a class="hbrable" href="" target="_blank" rel="noopener" >
+                                                <span class="ti-google"></span>
                                             </a>
                                         </div>
                                     </div>

@@ -11,8 +11,8 @@
             <div class="col-lg-4 col-md-6 order-md-last order-sm-first order-first">
                 <div class="social__links">
 
-                      <a href="https://www.reddit.com/user/waturu_" target="_self" rel="noopener" style="color: inherit !important;">
-                        <span class="ti-reddit"></span>
+                      <a href="" target="_blank" rel="noopener" style="color: inherit !important;">
+                        <span class="ti-google"></span>
                         </a>
                 </div>
             </div>
