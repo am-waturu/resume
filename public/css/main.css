@@ -288,12 +288,12 @@ li {
 }
 
 .loader__content::after {
-	content: "";
+	content: "Reload me";
 	margin-top: -45px;
 }
 
 .loader__content::before {
-	content: "";
+	content: "Just incase..";
 	margin-top: 45px;
 }
 
