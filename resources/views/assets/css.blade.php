@@ -11,10 +11,10 @@
     {{-- title --}}
     <title>wa†uru</title>
     {{-- favicon --}}
-    <link href="{{ asset ('img/favicon.png')}}" type="image/png" rel="icon">
+    <link href="img/favicon.png" type="image/png" rel="icon">
     {{-- All CSS --}}
     <link href="{{ asset ('css/plugins.css')}}" rel="stylesheet">
-    <link href="{{ asset ('css/main.css')}}" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
     <link href="{{ asset ('css/responsive.css')}}" rel="stylesheet">
 
 </head>
