@@ -11,7 +11,7 @@
             <div class="col-lg-4 col-md-6 order-md-last order-sm-first order-first">
                 <div class="social__links">
 
-                      <a href="" target="_blank" rel="noopener" style="color: inherit !important;">
+                      <a href="#" target="_blank" rel="noopener" style="color: inherit !important;">
                         <span class="ti-google"></span>
                         </a>
                 </div>

@@ -1,7 +1,7 @@
 /*==============================================================================
 
  * Template Name: Gigil - Multipurpose Portfolio Template
- * Template URI: 
+ * Template URI:
  * Author: ixtheme - (https://themeforest.net/user/ixtheme)
  * Description: Multipurpose Portfolio Template
  * Version: 1.0
@@ -12,7 +12,7 @@
 /* Extra large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
-    
+
 }
 
 /* Large devices (desktops, 991px and down) */
@@ -125,37 +125,37 @@
         -webkit-transition-delay: 0s;
         transition-delay: 0s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(2),
     .navigation.navigation_show .contact__info div:nth-child(2) {
         -webkit-transition-delay: .15s;
         transition-delay: .15s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(3),
     .navigation.navigation_show .contact__info div:nth-child(3) {
         -webkit-transition-delay: .4s;
         transition-delay: .4s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(4),
     .navigation.navigation_show .contact__info div:nth-child(4) {
         -webkit-transition-delay: .55s;
         transition-delay: .55s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(5),
     .navigation.navigation_show .contact__info div:nth-child(5) {
         -webkit-transition-delay: .7s;
         transition-delay: .7s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(6),
     .navigation.navigation_show .contact__info div:nth-child(6) {
         -webkit-transition-delay: .85s;
         transition-delay: .85s;
     }
-    
+
     .navigation.navigation_show .nav__label:nth-child(7),
     .navigation.navigation_show .contact__info div:nth-child(7) {
         -webkit-transition-delay: 1s;
@@ -239,6 +239,29 @@
         top: calc(50% - 18px);
     }
     .work__title::after {
+        width: 46px;
+        right: -84px;
+    }
+    .work__title_0 {
+        font-size: 60px;
+    }
+    .work__title_0::before {
+        height: 46px;
+        top: calc(50% - 18px);
+    }
+    .work__title_0::after {
+        width: 46px;
+        right: -84px;
+    }
+
+    .work__title_1 {
+        font-size: 60px;
+    }
+    .work__title_1::before {
+        height: 46px;
+        top: calc(50% - 18px);
+    }
+    .work__title_1::after {
         width: 46px;
         right: -84px;
     }
@@ -377,6 +400,22 @@
         display: none;
     }
     .work__title {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .work__title_0::before,
+    .work__title_0::after {
+        display: none;
+    }
+    .work__title_0 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .work__title_1::before,
+    .work__title_1::after {
+        display: none;
+    }
+    .work__title_1 {
         font-size: 50px;
         margin-bottom: 30px;
     }
