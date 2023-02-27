@@ -13,9 +13,11 @@
     {{-- favicon --}}
     <link href="img/favicon.png" type="image/png" rel="icon">
     {{-- All CSS --}}
-    <link href="{{ asset ('css/plugins.css')}}" rel="stylesheet">
+    <link href="css/plugins.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
-    <link href="{{ asset ('css/responsive.css')}}" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <!-- in the case of live server simply rely on nginx.conf not the normal asset -->
+    <!-- <link href="{{ asset ('css/responsive.css')}}" rel="stylesheet"> -->
 
 </head>
 <body>
