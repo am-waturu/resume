@@ -1,4 +1,4 @@
-FROM ajoergensen/nginx-php-fpm:8.1
+FROM richarvey/nginx-php-fpm:latest
 
 COPY . .
 
