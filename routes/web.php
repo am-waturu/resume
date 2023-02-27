@@ -21,6 +21,9 @@ use Illuminate\Support\Facades\Route;
 
 // Main Routes
 
+// if (App::environment('production')) {
+//     URL::forceScheme('https');
+// }
 
 Route::get('/home', function () {
     return view('index');
