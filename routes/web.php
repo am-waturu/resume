@@ -21,12 +21,25 @@ use Illuminate\Support\Facades\Route;
 
 // Main Routes
 
+
 Route::get('/home', function () {
     return view('index');
 });
 
 Route::get('/about', function () {
     return view('pages.about');
+});
+
+Route::get('/work', function () {
+    return view('pages.work');
+});
+
+Route::get('/headphones', function () {
+    return view('pages.works.headphones');
+});
+
+Route::get('/table', function () {
+    return view('pages.works.glass');
 });
 
 Route::get('/contact', function () {
