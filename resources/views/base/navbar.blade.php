@@ -7,9 +7,6 @@
                         <a href="{{ url ('/home')}}" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Home</a>
                     </div>
                     <div class="nav__label">
-                        <a href="{{ url ('/work')}}" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Work</a>
-                    </div>
-                    <div class="nav__label">
                         <a href="{{ url ('/about')}}" class="nav__label_inner slide-horizontal hbrable" target="_self"  data-splitting>About</a>
                     </div>
                     <div class="nav__label">
@@ -33,11 +30,11 @@
 
                     </div>
 
-                    <div class="text__heading_sm">Socials</div>
+                    <div class="text__heading_sm">Follow</div>
 
                     <!-- social links -->
                     <div class="social__links">
-                        <a class="hbrable" href="#" target="_blank" rel="noopener" >
+                        <a class="hbrable" href="" target="_blank" rel="noopener" >
                             <span class="ti-google"></span>
                         </a>
                     </div>

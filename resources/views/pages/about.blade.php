@@ -18,7 +18,7 @@
                 <div class="col-lg-8 col-md-12">
                     <h2 class="page__hero_title slide__in_right" data-splitting>
                         <i> </i> Fullstack Developer &amp; <br>
-                    Web Designer </h2>
+                    Web designer </h2>
                 </div>
             </div>
         </div>
@@ -66,10 +66,6 @@
                         <h3 class="expertise__item">Design</h3>
                         <span class="divider"></span>
                         <h3 class="expertise__item">Logic</h3>
-                        <span class="divider"></span>
-                        <h3 class="expertise__item">Virtual -R</h3>
-                        <span class="divider"></span>
-                        <h3 class="expertise__item">Augmented -R</h3>
                     </div>
                 </div>
             </div>
