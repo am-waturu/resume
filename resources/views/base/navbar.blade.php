@@ -4,7 +4,7 @@
             <div class="col-md-4">
                 <div class="navigation_inner">
                     <div class="nav__label">
-                        <a href="{{ url ('/home')}}" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Home</a>
+                        <a href="/home" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Home</a>
                     </div>
                     <div class="nav__label">
                         <a href="{{ url ('/work')}}" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Work</a>
@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="contact__info mb-0">
+                <div class="contact__in
                     <!-- hire me -->
                     <div class="text__heading_sm">Lets talk!</div>
 
