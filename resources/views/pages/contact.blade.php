@@ -38,7 +38,7 @@
                 <div class="col-lg-8 col-md-12">
 
                     <!-- contact__form -->
-                    <form method="POST" class="contact__form" action="{{ url ('/store')}}">
+                    <form method="POST" class="contact__form" action="/store">
                         @csrf
                         <div class="row justify-content-between">
                             <div class="col-md-12">

@@ -7,18 +7,18 @@
                         <a href="/home" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Home</a>
                     </div>
                     <div class="nav__label">
-                        <a href="{{ url ('/work')}}" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Work</a>
+                        <a href="/work" class="nav__label_inner slide-horizontal hbrable" target="_self" data-splitting>Work</a>
                     </div>
                     <div class="nav__label">
-                        <a href="{{ url ('/about')}}" class="nav__label_inner slide-horizontal hbrable" target="_self"  data-splitting>About</a>
+                        <a href="/about" class="nav__label_inner slide-horizontal hbrable" target="_self"  data-splitting>About</a>
                     </div>
                     <div class="nav__label">
-                        <a href="{{ url ('/contact')}}" class="nav__label_inner slide-horizontal hbrable " rel="noopener" target="_self" data-splitting>Contact</a>
+                        <a href="/contact" class="nav__label_inner slide-horizontal hbrable " rel="noopener" target="_self" data-splitting>Contact</a>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="contact__in
+                <div class="contact__info mb-0">
                     <!-- hire me -->
                     <div class="text__heading_sm">Lets talk!</div>
 

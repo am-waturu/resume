@@ -21,7 +21,7 @@
                                 Am wa†uru <br> An Augmented + Virtual reality noob <br> & Full-Stack developer</p>
                         </div>
                         <div class="hero__socials">
-                          {{-- <a href="" class="social__label slide__in_right slide-horizontal hbrable" data-splitting>Telegram</a> --}}
+                          {{-- <a href="#" class="social__label slide__in_right slide-horizontal hbrable" data-splitting>Telegram</a> --}}
                             <a href="#" class="social__label slide__in_right slide-horizontal hbrable" data-splitting>Google</a>
                         </div>
                     </div>
